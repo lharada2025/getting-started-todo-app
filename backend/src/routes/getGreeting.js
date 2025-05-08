@@ -1,5 +1,5 @@
 const GREETING = ['Hello world!',
-    'This is nerdy',
+    "This is nerdy",
     "Using quotes",
     'Not using quotes'
 ];
